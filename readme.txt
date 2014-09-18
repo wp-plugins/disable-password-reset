@@ -1,10 +1,12 @@
 === Plugin Name ===
 Contributors: H3llas
-Donate link: http://www.ascic.net/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=hverona%40gmail%2ecom&lc=US&item_name=Donation%20for%20Embed%20Comment%20Images&button_subtype=services&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=2¤cy_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: password, reset, disable
 Requires at least: 3.1
-Tested up to: 3.1
+Tested up to: 4.0
 Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Enhance security of your blogs by preventing password reset over email function.
 
